@@ -1,3 +1,2 @@
 #!/bin/sh
-#$INPUT_COMMAND --token "$INPUT_TOKEN"
-$INPUT_COMMAND
+$INPUT_COMMAND --token "$INPUT_TOKEN"
